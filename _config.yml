@@ -1,7 +1,7 @@
 name: 'Monocle Marketing, LLC'
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.4615496138576418
+typography_spectrum: 0.78545
 title: Monocle Marketing
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#456f99'
     - '#9a9b9d'
     - '#8e3830'
-  brandStrength: 0.3125
-  lightness: 0.625
-  saturation: 0.5
+  brandStrength: 0.375
+  lightness: 0.5625
+  saturation: 0.5625
   rhythmicContrast: 1
 purpose: []
