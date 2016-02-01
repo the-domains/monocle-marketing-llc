@@ -1,0 +1,28 @@
+name: 'Monocle Marketing, LLC'
+favicon: null
+layout_spectrum: 0.8394033957738429
+typography_spectrum: 0.4615496138576418
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.09794264007359743
+  lightness: 0.6201789157930762
+  saturation: 0.5439722577575594
+  rhythmicContrast: 0.9644318539649248
+purpose: []
